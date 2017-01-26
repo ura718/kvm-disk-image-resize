@@ -1,0 +1,1 @@
+# kvm-disk-image-resize
