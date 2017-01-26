@@ -157,3 +157,8 @@ Run `df` again to see that we now have additional space available:
     Filesystem      Size  Used Avail Use% Mounted on
     /dev/vda3        16G  867M   14G   6% /
     [root@localhost ~]# 
+
+
+CREDIT GOES TO:
+- https://gist.github.com/larsks/3933980
+
